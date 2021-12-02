@@ -20,7 +20,7 @@ make
 
 To compile the client do the following commands from the project root folder:
 ```bash
-cd Server
+cd Client
 make
 ```
 
