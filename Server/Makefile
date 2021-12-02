@@ -15,7 +15,7 @@ objects = $(addprefix $(obj_folder)/, main.o my_string.o client.o)
 head = my_string.h client.h errono.h
 
 main: $(objects)
-	$(CC) $(objects) -o main.elf -lpthread
+	$(CC) $(objects) -o server.elf -lpthread
 
 $(obj_folder)/main.o: main.c my_string.h client.h
 	$(CC) $(CFLAGS) main.c -o $(obj_folder)/main.o
