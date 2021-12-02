@@ -65,4 +65,4 @@ To quit the server application press CTRL+C.
 ### Francisco Marques
 fmarques_00@protonmail.com
 ### Gonçalo Guerra
-guerra.m.guerra@protonmail.ch
+guerra.m.goncalo@protonmail.ch
